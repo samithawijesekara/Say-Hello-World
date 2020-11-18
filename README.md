@@ -17,7 +17,6 @@ Hello World is used to demonstrate basic features of a programming language. So 
 - PHP
 - Swift
 - Ruby
-- Kotlin
 - Bash
 - Go
 - MATLAB
