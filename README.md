@@ -22,3 +22,4 @@ Hello World is used to demonstrate basic features of a programming language. So 
 - MATLAB
 - Objective-C
 - Pascal
+- Rust
