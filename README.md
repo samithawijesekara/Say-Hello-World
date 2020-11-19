@@ -23,3 +23,4 @@ Hello World is used to demonstrate basic features of a programming language. So 
 - Objective-C
 - Pascal
 - Rust
+- VB
